@@ -10,11 +10,12 @@ If you want to help out with the site by writing or maintaining guides head over
 
 # 🚀 Projects
 
-We are lucky to have so many amazing screenshoters and engineers, that's why we have several projects in which we display the mindblowing talent of our community. Feel free to check them out, and to collaborate if you want to as well!
+We are lucky to have so many amazing screenshoters and engineers, that's why we have several projects in which we display the mindblowing talent of our community (or just play around and meme the hobby.). Feel free to check them out, and to collaborate if you want to as well!
 
 <p align="left">
   <a href="https://github.com/framedsc/HallOfFramed"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=HallOfFramed&show_owner=true" alt="HallOfFramed"></a>
   <a href="https://github.com/framedsc/HOFWallpaper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=HOFWallpaper&show_owner=true" alt="HOFWallpaper"></a>
   <a href="https://github.com/framedsc/framed-wrapped"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=framed-wrapped&show_owner=true" alt="framed-wrapped"></a>
+  <a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot&show_owner=true" alt="framed-wrapped"></a>
+  <a href="https://github.com/Fraulk/FramedPolice"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Fraulk&repo=FramedPolice&show_owner=true" alt="framed-wrapped"></a>
 </p>
-
