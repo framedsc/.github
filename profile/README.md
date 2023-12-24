@@ -1,5 +1,6 @@
-
-![framedlogosimple](https://github.com/framedsc/.github/assets/24371572/e1b99ed1-64b2-4f2f-8c2e-f1f68d794bfb)
+<p align="center">
+  <img src="https://github.com/framedsc/.github/assets/24371572/e1b99ed1-64b2-4f2f-8c2e-f1f68d794bfb" alt="framed-logo-simple">
+</p>
 
 # ✨ About us
 
