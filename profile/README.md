@@ -1,4 +1,5 @@
-![FRAMED_LogoBigDarkTransparent800px (1)](https://github.com/framedsc/.github/assets/24371572/7a39633c-3747-4f8c-80b9-7505140629cf)
+
+![framedlogosimple](https://github.com/framedsc/.github/assets/24371572/e1b99ed1-64b2-4f2f-8c2e-f1f68d794bfb)
 
 # ✨ About us
 
@@ -10,7 +11,7 @@ If you want to help out with the site by writing or maintaining guides head over
 
 # 🚀 Projects
 
-We are lucky to have so many amazing screenshoters and engineers, that's why we have several projects in which we display the mindblowing talent of our community (or just play around and meme the hobby.). Feel free to check them out, and to collaborate if you want to as well!
+We are lucky to have so many amazing screenshoters and engineers, that's why we have several projects in which we display the mindblowing talent of our community. Feel free to check them out, and to collaborate if you want to as well!
 
 <p align="left">
   <a href="https://github.com/framedsc/HallOfFramed"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=HallOfFramed&show_owner=true" alt="HallOfFramed"></a>
