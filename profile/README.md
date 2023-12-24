@@ -1,4 +1,4 @@
-<img alt="Intro" src="FRAMED_LogoBigDarkTransparent800px.png">
+![FRAMED_LogoBigDarkTransparent800px](FRAMED_LogoBigDarkTransparent800px.png)
 
 # ✨ About us
 
