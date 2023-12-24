@@ -1,4 +1,4 @@
-![FRAMED_LogoBigDarkTransparent800px](FRAMED_LogoBigDarkTransparent800px.png)
+![FRAMED_LogoBigDarkTransparent800px (1)](https://github.com/framedsc/.github/assets/24371572/7a39633c-3747-4f8c-80b9-7505140629cf)
 
 # ✨ About us
 
